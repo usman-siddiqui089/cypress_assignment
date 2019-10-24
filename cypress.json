@@ -1,0 +1,9 @@
+{
+
+    "baseUrl" : "https://accounts.google.com",
+    "defaultCommandTimeout": 10000,
+    "chromeWebSecurity": false,
+    "crossorigin": "anonymous",
+    "pageLoadTimeout" : 120000
+
+}
