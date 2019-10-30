@@ -5,6 +5,8 @@ import { redirectToForm } from "../functions/functions"
 const red_email = Cypress.env('red_email')
 const red_pass = Cypress.env('red_password')
 
+//Re-direction to Google Accounts
+
 describe('Redirect to Google Accounts First',()=>{
 
     it('Redirection to Form',()=>{
